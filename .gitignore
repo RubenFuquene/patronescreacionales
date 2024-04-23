@@ -1,0 +1,27 @@
+# Eclipse
+.classpath
+.project
+.settings
+
+# Maven
+target
+.jar
+.war
+.ear
+.class
+
+# Logs
+.log
+
+# Package Files #
+.jar
+.war
+.nar
+.har
+.ipr
+.iws
+.iml
+.idea
+
+# Virtual Machine crash logs, see httpwww.java.comendownloadhelperror_hotspot.xml
+hs_err_pid
